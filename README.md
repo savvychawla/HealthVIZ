@@ -1,4 +1,4 @@
-# HealthVIZ
+# Health Report VIZ
 Health report visualisation for easier understanding, and keeping track of crucial changes during year 2020 and 2021
 
 ![Dashboard 1](https://user-images.githubusercontent.com/41226968/144306377-bfc97104-8484-474e-8771-f65b98e6fdb1.png)
